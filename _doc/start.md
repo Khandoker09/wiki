@@ -1,5 +1,5 @@
 ---
-title: Quick Start
+title: Landing page
 excerpt: Demo example, consectetuer adipiscing elit
 date: 2016-01-25
 icon:
